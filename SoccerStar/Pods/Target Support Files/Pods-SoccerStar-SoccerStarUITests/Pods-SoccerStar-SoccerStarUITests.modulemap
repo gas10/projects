@@ -1,6 +1,0 @@
-framework module Pods_SoccerStar_SoccerStarUITests {
-  umbrella header "Pods-SoccerStar-SoccerStarUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
